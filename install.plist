@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/jzqok/k2kdw/blob/82de39cd9debbf54aa986f051d7cb0a8522d2db0/1.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/jzqok/k2kdw/blob/82de39cd9debbf54aa986f051d7cb0a8522d2db0/2.png</string>
                 </dict>
            </array>
             
@@ -38,9 +38,9 @@
             
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.baidu.***</string>
+                <string>com.2ksports.nba2k20</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.99840.106159</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
