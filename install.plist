@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>   
+                              
+          <array>
+              <dict>
+                  <key>kind</key>
+                  <string>software-package</string>
+                  <key>url</key>
+                  <string>https://download.mcloud.139.com/storageWeb/servlet/downloadServlet?code=SzcwYTExZHpGYzYxNm0yNzUxN3RwOC1BS2R0&un=B731A46E1756F464E90AE30CEE44ADF56BC670F7CC409675254E8D819D653B5D&dom=D960&rate=0&txType=0</string>
+              </dict> 
+                             
+              <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://***/Icon57.png</string>
+                </dict>
+
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://***/Icon57.png</string>
+                </dict>
+           </array>
+            
+            <key>metadata</key>
+            
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.baidu.***</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Hiclub</string>
+            </dict>
+            
+        </dict>
+    </array>
+</dict>
+</plist>
